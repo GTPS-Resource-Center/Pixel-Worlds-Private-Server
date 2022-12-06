@@ -1,5 +1,5 @@
 ###### This is a private server for PIXEL WORLDS and is currently set to the proper version at the time of uploading.
-###### If the version no longer matches when you try to build then follow the steps below on 
+###### If the version no longer matches when you try to run a build then follow the steps below on 
 ###### how to update your version to the proper one.
 
 ### STEPS TO SETUP
