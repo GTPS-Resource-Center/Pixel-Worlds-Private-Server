@@ -5,6 +5,7 @@
 ### STEPS TO SETUP
 ----------------------
 #### 1.) Download & Install Visual Studio. (If you download 2019 PRO then you can use the activation key provided)
+## Visual Studio 2019 Pro License Key: NYWVH-HT4XC-R2WYW-9Y3CM-X4V3Y
 #### 2.) Open the .sln with Visual Studio.
 #### 3.) Click Build in the tab, then Build Solution.. OR do ctrl+shift+B.
 #### 4.) Once built, Goto the folder where the exe is : (PixelWorldsServer2/bin/Debug/netcoreapp3.1/)
