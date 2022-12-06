@@ -26,18 +26,18 @@
 
 ### TO PLAY ON SAME PC AS SERVER YOU NEED TO ADD THE FOLLOWING TO YOUR HOSTS FILE
 ----------------------------------------------------------------------------------------------------------------------
-127.0.0.1 prod.gamev81.portalworldsgame.com
-127.0.0.1 prod.gamev82.portalworldsgame.com
-127.0.0.1 prod.gamev83.portalworldsgame.com
-127.0.0.1 prod.gamev84.portalworldsgame.com
-127.0.0.1 prod.gamev94.portalworldsgame.com
+##### 127.0.0.1 prod.gamev81.portalworldsgame.com
+##### 127.0.0.1 prod.gamev82.portalworldsgame.com
+##### 127.0.0.1 prod.gamev83.portalworldsgame.com
+##### 127.0.0.1 prod.gamev84.portalworldsgame.com
+##### 127.0.0.1 prod.gamev94.portalworldsgame.com
 
 #### if someone from Another pc wants to connect they need t0 switch "127.0.0.1" to the actual ip.
 
 #### if version is higher than 94 then add more lines with leading numbers... example: if 97 then add
-127.0.0.1 prod.gamev95.portalworldsgame.com
-127.0.0.1 prod.gamev96.portalworldsgame.com
-127.0.0.1 prod.gamev97.portalworldsgame.com
+##### 127.0.0.1 prod.gamev95.portalworldsgame.com
+##### 127.0.0.1 prod.gamev96.portalworldsgame.com
+##### 127.0.0.1 prod.gamev97.portalworldsgame.com
 
 ### How to find Hosts File?
 -----------------------------
