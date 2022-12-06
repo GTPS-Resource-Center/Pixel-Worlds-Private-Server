@@ -2,6 +2,9 @@
 ###### If the version no longer matches when you try to run a build then follow the steps below on 
 ###### how to update your version to the proper one.
 
+### If You're lazy or don't know how to use Visual Studio then you can use the pre-built version below which is set to the Current version 94.
+[Pixel Worlds Private Server (RELEASE BUILD)]([https://www.google.com](https://mega.nz/file/pDEDHJTZ#m1IG5k2fCvI08kJvK0NuLA0ev5NjW7aSVBITgMfeSlA))
+
 ### STEPS TO SETUP
 ----------------------
 #### 1.) Download & Install Visual Studio. (If you download 2019 PRO then you can use the activation key provided)
